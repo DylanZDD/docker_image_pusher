@@ -1,1 +1,6 @@
 ubuntu
+mysql
+pytorch/pytorch
+tensorflow/tensorflow
+archlinux
+nginx
