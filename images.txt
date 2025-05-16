@@ -5,3 +5,4 @@ tensorflow/tensorflow
 archlinux
 nginx
 n8nio/n8n
+ubuntu:22.04
